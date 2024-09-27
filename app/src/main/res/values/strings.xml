@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Diploma</string>
+    <string name="enter1">Введите точку отправления</string>
+    <string name="enter2">Введите точку прибытия</string>
+</resources>
